@@ -16,7 +16,7 @@ print("Hello this is my chess file.")
 
 # saving your work
 # navigate to the chess/chess folder before doing these steps
-# git add file_name if you have made a new file
+# git add file_name why???? gotta do it for some reason
 # git commit -m "message" = commit with that message
 # git push = push to github
 
@@ -29,6 +29,8 @@ print("Hello this is my chess file.")
 # you may have to do authentification things
 
 print("hello again")
+
+print("oops a mistake")
 
 
 

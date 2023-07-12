@@ -32,7 +32,3 @@ print("hello again")
 
 print("oops a mistake")
 
-
-
-
-
